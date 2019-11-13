@@ -1,1 +1,1 @@
-image stitching by using SFIT, RANSAC
+image stitching by using SIFT, RANSAC
